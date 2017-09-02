@@ -6,10 +6,11 @@
 
 ## Папки
 
-- **Библиотеки** - библиотеки для дисплея и прочего, скопировать в  
+- **libraries** - библиотеки для дисплея и прочего, скопировать в  
 `C:\Program Files (x86)\Arduino\libraries\` (Windows x64)  
 `C:\Program Files\Arduino\libraries\` (Windows x86)
 - **weather_predict_approx** - прошивка для Arduino, файл в папке открыть в Arduino IDE (читай FAQ)
+- **scale_image** - файлы картинок формата 10х15 для печати
 
 ## Схема питания от USB
 ![СХЕМА](https://github.com/AlexGyver/MoneyBox_counter/blob/master/scheme1.jpg)
@@ -20,11 +21,16 @@
 ##  Материалы и компоненты
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
 
-* Arduino NANO http://ali.pub/1qqtjx
-*
-*
-*
-
+* Arduino NANO http://ali.pub/1qqtm2
+* Барометр http://ali.pub/rnhk4
+* Серво http://ali.pub/ae7uh
+* Корпус http://ali.pub/cd8sj
+* Акумы http://alexgyver.ru/18650/
+* Держатель акума http://ali.pub/0jumn
+* Держатель для 3хАА http://ali.pub/7ap2c
+* Мосфеты: IRF3704ZPBF, IRLB8743PBF, IRL2203NPBF, IRLB8748PBF, IRL8113PBF, IRL3803PBF, IRLB3813PBF, IRL3502PBF, IRL2505PBF, IRF3711PBF, IRL3713PBF, IRF3709ZPBF, AUIRL3705N, IRLB3034PBF, IRF3711ZPBF
+* Мосфет модуль http://ali.pub/1rcy4z
+* Резисторы 100 Ом, 10 кОм
 
 ## Вам скорее всего пригодится
 * Всё для пайки (паяльники и примочки) http://alexgyver.ru/all-for-soldering/
@@ -35,10 +41,7 @@
 
 ## Как запустить и настроить
 * Загрузка прошивки http://alexgyver.ru/arduino-first/
-*
-*
-*
-
+* Включить, дождаться остановки серво, закрепить стрелку в 0 шкалы
 
 ## Настройки в коде
     #define servo_invert 1       // если серва крутится не в ту сторону, изменить значение (1 на 0, 0 на 1)
@@ -68,3 +71,5 @@
 О: Ничего не продаю.
 
 ### Вопросы по этому проекту
+В: Стрелка двигается не в ту сторону
+О: В настройках поставь инверсию
