@@ -13,10 +13,10 @@
 - **scale_image** - файлы картинок формата 10х15 для печати
 
 ## Схема питания от USB
-![СХЕМА](https://github.com/AlexGyver/MoneyBox_counter/blob/master/scheme1.jpg)
+![СХЕМА](https://github.com/AlexGyver/WeatherPredict/blob/master/scheme1.png)
 
 ## Схема питания от аккумулятора через мосфет
-![СХЕМА](https://github.com/AlexGyver/MoneyBox_counter/blob/master/scheme2.jpg)
+![СХЕМА](https://github.com/AlexGyver/WeatherPredict/blob/master/scheme2.png)
 
 ##  Материалы и компоненты
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
