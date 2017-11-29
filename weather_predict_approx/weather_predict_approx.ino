@@ -37,7 +37,7 @@
 
 boolean wake_flag, move_arrow;
 int sleep_count, angle, delta, last_angle = 90;
-byte k = 0.8;
+float k = 0.8;
 float my_vcc_const = 1.080;    // константа вольтметра
 unsigned long pressure, aver_pressure, pressure_array[6], time_array[6];
 unsigned long sumX, sumY, sumX2, sumXY;
