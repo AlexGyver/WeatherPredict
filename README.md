@@ -21,15 +21,26 @@
 ##  Материалы и компоненты
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
 
-* Arduino NANO http://ali.pub/1qqtm2
-* Барометр http://ali.pub/rnhk4
-* Серво http://ali.pub/ae7uh
-* Корпус http://ali.pub/cd8sj
-* Акумы http://alexgyver.ru/18650/
-* Держатель акума http://ali.pub/0jumn
-* Держатель для 3хАА http://ali.pub/7ap2c
+* Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Барометр
+* https://ali.ski/lNqcIe
+* https://ali.ski/A09cz
+* Серво искать
+* https://ali.ski/03D_r
+* https://ali.ski/LuJHp
+* https://ali.ski/CMSraI
+* Корпус
+* http://ali.ski/V_5Ls
+* http://ali.ski/euvEt
+* Акумы https://alexgyver.ru/18650/
+* Держатель акума https://ali.ski/LXzk4N
+* Держатель для 3хАА https://ali.ski/y2iH10
 * Мосфеты: IRF3704ZPBF, IRLB8743PBF, IRL2203NPBF, IRLB8748PBF, IRL8113PBF, IRL3803PBF, IRLB3813PBF, IRL3502PBF, IRL2505PBF, IRF3711PBF, IRL3713PBF, IRF3709ZPBF, AUIRL3705N, IRLB3034PBF, IRF3711ZPBF
-* Мосфет модуль http://ali.pub/1rcy4z
+* Мосфет модуль https://ali.ski/Q7w-Yh
 * Резисторы 100 Ом, 10 кОм
 
 ## Вам скорее всего пригодится
