@@ -22,25 +22,25 @@
 Если товар закончился, то почти всё указанное ниже можно найти здесь http://alexgyver.ru/arduino_shop/ или здесь http://alexgyver.ru/electronics/
 
 * Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
+* https://ali.ski/RIUEx
+* https://ali.ski/qQl56M
+* https://ali.ski/VZjC3d
+* https://ali.ski/q3TjC
 * Барометр
-* https://ali.ski/lNqcIe
-* https://ali.ski/A09cz
+* https://ali.ski/kE9l3V
+* https://ali.ski/rKoeb
 * Серво искать
-* https://ali.ski/03D_r
-* https://ali.ski/LuJHp
-* https://ali.ski/CMSraI
+* https://ali.ski/QeKGf
+* https://ali.ski/NGeNF
+* https://ali.ski/Q7p70U
 * Корпус
-* http://ali.ski/V_5Ls
-* http://ali.ski/euvEt
+* https://ali.ski/2llMPH
+* https://ali.ski/8i6v9
 * Акумы https://alexgyver.ru/18650/
-* Держатель акума https://ali.ski/LXzk4N
-* Держатель для 3хАА https://ali.ski/y2iH10
+* Держатель акума https://ali.ski/UxyXK
+* Держатель для 3хАА https://ali.ski/KCC0-
 * Мосфеты: IRF3704ZPBF, IRLB8743PBF, IRL2203NPBF, IRLB8748PBF, IRL8113PBF, IRL3803PBF, IRLB3813PBF, IRL3502PBF, IRL2505PBF, IRF3711PBF, IRL3713PBF, IRF3709ZPBF, AUIRL3705N, IRLB3034PBF, IRF3711ZPBF
-* Мосфет модуль https://ali.ski/Q7w-Yh
+* Мосфет модуль https://ali.ski/Fsaqj
 * Резисторы 100 Ом, 10 кОм
 
 ## Вам скорее всего пригодится
